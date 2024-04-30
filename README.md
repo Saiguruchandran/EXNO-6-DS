@@ -18,7 +18,12 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+ ![image](https://github.com/Saiguruchandran/EXNO-6-DS/assets/144870946/c9313487-6534-41e9-ba2c-5f98827c5012)
+![image](https://github.com/Saiguruchandran/EXNO-6-DS/assets/144870946/a4d3000a-08cc-4c39-a945-90ebb47137aa)
+![image](https://github.com/Saiguruchandran/EXNO-6-DS/assets/144870946/f656222f-6ec9-4885-8a09-59f8f80043c2)
+![image](https://github.com/Saiguruchandran/EXNO-6-DS/assets/144870946/37f11289-ed28-4fa8-969c-75b560ed07c8)
+![image](https://github.com/Saiguruchandran/EXNO-6-DS/assets/144870946/78688812-5d16-40af-961b-4d4e4f1f7822)
+
 
 # Result:
- Include your result here
+ 
